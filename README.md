@@ -13,6 +13,11 @@ Estou amando esse mundo da tecnologia, aprendizado contínuo e criação de solu
 - 🌍 Sonho em morar em **Londres**  
 - 📫 Como me encontrar: **www.linkedin.com/in/adrielly-proti-890427379**
 
+## 🛠️ Tecnologias e Ferramentas
+- 💻 [Ex.: Python, JavaScript, Node.js, React]
+- ⚙️ [Ex.: Git, GitHub, VSCode]
+- 🌐 [Ex.: HTML, CSS]
+
 ---
 
 ## 🌎 Onde me encontrar
